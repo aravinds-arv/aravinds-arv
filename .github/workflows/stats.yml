@@ -20,10 +20,8 @@ jobs:
         if [[ "$(git status --porcelain)" != "" ]]; then
         git config user.name github-actions[bot]
         git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git stash
-        git pull
-        git stash apply
         git add .
         git commit -m "Update README"
+        git pull origin
         git push
         fi
