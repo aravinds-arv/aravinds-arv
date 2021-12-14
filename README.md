@@ -26,21 +26,17 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
-2. 🗣 Commented on [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
-3. ❗️ Opened issue [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
-4. ❗️ Closed issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
-5. ❗️ Opened issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
+1. 🗣 Commented on [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
+2. ❗️ Opened issue [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
+3. ❗️ Closed issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
+4. ❗️ Opened issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
+5. 🎉 Merged PR [#2](https://github.com/aravinds-arv/aravinds-arv/pull/2) in [aravinds-arv/aravinds-arv](https://github.com/aravinds-arv/aravinds-arv)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Java     4 hrs 40 mins   ███████████▓░░░░░░░░░░░░░   46.24 % 
-Python   2 hrs 40 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.54 % 
-HTML     2 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.70 % 
-Tcsh     10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-CSS      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
   
