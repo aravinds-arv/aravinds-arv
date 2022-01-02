@@ -15,9 +15,9 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 ```json
 {
   "joined": "0 years ago",
-  "repos": "14",
+  "repos": "15",
   "repos_contributed_to": "8",
-  "commits": "70",
+  "commits": "72",
   "stars": "1",
   "issues": "2",
   "pull_requests": "14"
@@ -26,21 +26,17 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Anand-PS/Surface-mounted-power-bank/pull/1) in [Anand-PS/Surface-mounted-power-bank](https://github.com/Anand-PS/Surface-mounted-power-bank)
-2. ❗️ Closed issue [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
-3. 🗣 Commented on [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
-4. ❗️ Opened issue [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
-5. ❗️ Closed issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
+1. 🗣 Commented on [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
+2. ❗️ Opened issue [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
+3. ❗️ Closed issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
+4. ❗️ Opened issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
+5. 🎉 Merged PR [#2](https://github.com/aravinds-arv/aravinds-arv/pull/2) in [aravinds-arv/aravinds-arv](https://github.com/aravinds-arv/aravinds-arv)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Python      9 hrs 3 mins    ██████████████████████▒░░   89.78 % 
-Markdown    34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Text        12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Batchfile   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Bash        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
   
