@@ -26,7 +26,7 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Anand-PS/Surface-mounted-power-bank/pull/1) in [Anand-PS/Surface-mounted-power-bank](https://github.com/Anand-PS/Surface-mounted-power-bank)
+1. 🗣 Commented on [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
 2. ❗️ Opened issue [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
 3. ❗️ Closed issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
 4. ❗️ Opened issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
@@ -36,8 +36,7 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Python   5 hrs 13 mins   █████████████████████▓░░░   87.21 % 
-HTML     44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
   
