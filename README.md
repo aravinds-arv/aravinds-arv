@@ -26,17 +26,17 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Tinkerhub-NSSCE/git-and-github-session-task-2/pull/7) in [Tinkerhub-NSSCE/git-and-github-session-task-2](https://github.com/Tinkerhub-NSSCE/git-and-github-session-task-2)
-2. 🎉 Merged PR [#6](https://github.com/Tinkerhub-NSSCE/git-and-github-session-task-2/pull/6) in [Tinkerhub-NSSCE/git-and-github-session-task-2](https://github.com/Tinkerhub-NSSCE/git-and-github-session-task-2)
-3. 🎉 Merged PR [#5](https://github.com/Tinkerhub-NSSCE/git-and-github-session-task-2/pull/5) in [Tinkerhub-NSSCE/git-and-github-session-task-2](https://github.com/Tinkerhub-NSSCE/git-and-github-session-task-2)
-4. 🎉 Merged PR [#4](https://github.com/Tinkerhub-NSSCE/git-and-github-session-task-2/pull/4) in [Tinkerhub-NSSCE/git-and-github-session-task-2](https://github.com/Tinkerhub-NSSCE/git-and-github-session-task-2)
-5. 🎉 Merged PR [#3](https://github.com/Tinkerhub-NSSCE/git-and-github-session-task-2/pull/3) in [Tinkerhub-NSSCE/git-and-github-session-task-2](https://github.com/Tinkerhub-NSSCE/git-and-github-session-task-2)
+1. 🗣 Commented on [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
+2. ❗️ Opened issue [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
+3. ❗️ Closed issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
+4. ❗️ Opened issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
+5. 🎉 Merged PR [#2](https://github.com/aravinds-arv/aravinds-arv/pull/2) in [aravinds-arv/aravinds-arv](https://github.com/aravinds-arv/aravinds-arv)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
   
