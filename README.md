@@ -26,8 +26,8 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/aravinds-arv/PixiPi/pull/1) in [aravinds-arv/PixiPi](https://github.com/aravinds-arv/PixiPi)
-2. 💪 Opened PR [#1](https://github.com/aravinds-arv/PixiPi/pull/1) in [aravinds-arv/PixiPi](https://github.com/aravinds-arv/PixiPi)
+1. 🗣 Commented on [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
+2. ❗️ Opened issue [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
 3. ❗️ Closed issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
 4. ❗️ Opened issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
 5. 🎉 Merged PR [#2](https://github.com/aravinds-arv/aravinds-arv/pull/2) in [aravinds-arv/aravinds-arv](https://github.com/aravinds-arv/aravinds-arv)
@@ -35,12 +35,9 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
-HTML     13 mins         █████████████████████████   100.00 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
