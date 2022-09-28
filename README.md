@@ -26,7 +26,7 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/tinkerhub/mashithandu/issues/17) in [tinkerhub/mashithandu](https://github.com/tinkerhub/mashithandu)
+1. 🗣 Commented on [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
 2. ❗️ Opened issue [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
 3. ❗️ Closed issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
 4. ❗️ Opened issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
@@ -35,13 +35,9 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
-Python     3 hrs 8 mins    ████████████████████░░░░░   80.52 %
-INI        38 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
-Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
