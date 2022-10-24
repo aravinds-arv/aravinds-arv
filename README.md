@@ -26,21 +26,18 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/Tinkerhub-NSSCE/baymax/issues/7) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-2. 🎉 Merged PR [#7](https://github.com/Tinkerhub-NSSCE/baymax/pull/7) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-3. 🗣 Commented on [#2](https://github.com/Tinkerhub-NSSCE/baymax/issues/2) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-4. 🗣 Commented on [#7](https://github.com/Tinkerhub-NSSCE/baymax/issues/7) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-5. 🎉 Merged PR [#6](https://github.com/Tinkerhub-NSSCE/baymax/pull/6) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+1. 🗣 Commented on [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
+2. ❗️ Opened issue [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
+3. ❗️ Closed issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
+4. ❗️ Opened issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
+5. 🎉 Merged PR [#2](https://github.com/aravinds-arv/aravinds-arv/pull/2) in [aravinds-arv/aravinds-arv](https://github.com/aravinds-arv/aravinds-arv)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
-Python   1 hr 13 mins    ███████████████████████░░   92.04 %
-Bash     6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
