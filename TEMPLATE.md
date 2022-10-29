@@ -14,7 +14,7 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ```json
 {
-  "joined": "{{ ACCOUNT_AGE }}",
+  "joined": "{{ ACCOUNT_AGE }} years ago",
   "repos": "{{ REPOSITORIES }}",
   "repos_contributed_to": "{{ REPOSITORIES_CONTRIBUTED_TO }}",
   "commits": "{{ COMMITS }}",
