@@ -14,10 +14,10 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ```json
 {
-  "joined": "1",
+  "joined": "1 years ago",
   "repos": "24",
   "repos_contributed_to": "7",
-  "commits": "886",
+  "commits": "887",
   "stars": "2",
   "issues": "7",
   "pull_requests": "23"
