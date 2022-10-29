@@ -14,13 +14,13 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ```json
 {
-  "joined": "0 years ago",
-  "repos": "16",
-  "repos_contributed_to": "9",
-  "commits": "131",
-  "stars": "1",
-  "issues": "2",
-  "pull_requests": "15"
+  "joined": "{{ ACCOUNT_AGE }}",
+  "repos": "{{ REPOSITORIES }}",
+  "repos_contributed_to": "{{ REPOSITORIES_CONTRIBUTED_TO }}",
+  "commits": "{{ COMMITS }}",
+  "stars": "{{ STARS }}",
+  "issues": "{{ ISSUES }}",
+  "pull_requests": "{{ PULL_REQUESTS }}"
 }
 ```
 
