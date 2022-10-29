@@ -14,33 +14,30 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ```json
 {
-  "joined": "0 years ago",
-  "repos": "16",
-  "repos_contributed_to": "9",
-  "commits": "131",
-  "stars": "1",
-  "issues": "2",
-  "pull_requests": "15"
+  "joined": "1",
+  "repos": "24",
+  "repos_contributed_to": "7",
+  "commits": "886",
+  "stars": "2",
+  "issues": "7",
+  "pull_requests": "23"
 }
 ```
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
-5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
+1. 🗣 Commented on [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
+2. ❗️ Opened issue [#18](https://github.com/teoxoy/profile-readme-stats/issues/18) in [teoxoy/profile-readme-stats](https://github.com/teoxoy/profile-readme-stats)
+3. ❗️ Closed issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
+4. ❗️ Opened issue [#1](https://github.com/teoxoy/teoxoy/issues/1) in [teoxoy/teoxoy](https://github.com/teoxoy/teoxoy)
+5. 🎉 Merged PR [#2](https://github.com/aravinds-arv/aravinds-arv/pull/2) in [aravinds-arv/aravinds-arv](https://github.com/aravinds-arv/aravinds-arv)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
-Python       1 hr 27 mins    ████████████████████▓░░░░   82.47 %
-Other        10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
