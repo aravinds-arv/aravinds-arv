@@ -6,7 +6,7 @@
   <img src="https://github.com/aravinds-arv/aravinds-arv/blob/master/header.gif">
 </p>
 
-Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) ( */ˌaɾɛvɪnð/* ), engineering undergrad @ NSSCE Palakkad. I am a self taught programmer, graphic designer, free & open source enthusiast and forever a learner. Here you'll find the projects i've been working on lately and sometimes other random stuff as well. Have something to talk about or just wanna say hi, you can find me on [mastodon](https://mstdn.social/@aravinds_arv) or [linkedin](https://www.linkedin.com/in/aravinds-arv/).
+Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛvɪnð/* ), engineering undergrad @ NSSCE Palakkad. I am a self taught programmer, graphic designer, free & open source enthusiast and forever a learner. Here you'll find the projects i've been working on lately and sometimes other random stuff as well. Have something to talk about or just wanna say hi, you can find me on [mastodon](https://mstdn.social/@aravinds_arv) or [linkedin](https://www.linkedin.com/in/aravinds-arv/).
 
 ---
 
@@ -17,7 +17,7 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
   "joined": "1 years ago",
   "repos": "24",
   "repos_contributed_to": "7",
-  "commits": "893",
+  "commits": "901",
   "stars": "2",
   "issues": "7",
   "pull_requests": "24"
@@ -26,23 +26,18 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#161](https://github.com/pygrammers-org/Road-to-OSS/pull/161) in [pygrammers-org/Road-to-OSS](https://github.com/pygrammers-org/Road-to-OSS)
-2. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-3. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-4. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-5. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
+5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
-Markdown     4 hrs 21 mins   ████████████████▒░░░░░░░░   64.95 %
-Python       1 hr 18 mins    █████░░░░░░░░░░░░░░░░░░░░   19.49 %
-JSON         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
