@@ -17,10 +17,10 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
   "joined": "1 years ago",
   "repos": "24",
   "repos_contributed_to": "7",
-  "commits": "888",
+  "commits": "893",
   "stars": "2",
   "issues": "7",
-  "pull_requests": "23"
+  "pull_requests": "24"
 }
 ```
 
@@ -35,12 +35,9 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://aravinds-arv.github.io/) 
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
-Python       1 hr 27 mins    ████████████████████▓░░░░   82.47 %
-Other        10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
