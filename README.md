@@ -17,10 +17,10 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
   "joined": "1 years ago",
   "repos": "24",
   "repos_contributed_to": "7",
-  "commits": "901",
-  "stars": "2",
+  "commits": "911",
+  "stars": "4",
   "issues": "7",
-  "pull_requests": "24"
+  "pull_requests": "25"
 }
 ```
 
