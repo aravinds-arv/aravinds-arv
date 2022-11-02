@@ -17,34 +17,27 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
   "joined": "1 years ago",
   "repos": "24",
   "repos_contributed_to": "7",
-  "commits": "916",
+  "commits": "923",
   "stars": "4",
   "issues": "7",
-  "pull_requests": "25"
+  "pull_requests": "26"
 }
 ```
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/aravinds-arv/aravinds-arv.github.io/pull/1) in [aravinds-arv/aravinds-arv.github.io](https://github.com/aravinds-arv/aravinds-arv.github.io)
-2. 💪 Opened PR [#1](https://github.com/aravinds-arv/aravinds-arv.github.io/pull/1) in [aravinds-arv/aravinds-arv.github.io](https://github.com/aravinds-arv/aravinds-arv.github.io)
-3. 💪 Opened PR [#161](https://github.com/pygrammers-org/Road-to-OSS/pull/161) in [pygrammers-org/Road-to-OSS](https://github.com/pygrammers-org/Road-to-OSS)
-4. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-5. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
+5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
-Markdown   9 hrs 36 mins   ████████████████████░░░░░   80.44 %
-YAML       1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-HTML       43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-JSON       31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-Python     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
