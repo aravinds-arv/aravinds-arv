@@ -26,11 +26,11 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
-5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
+1. 🎉 Merged PR [#3](https://github.com/aravinds-arv/aravinds-arv.github.io/pull/3) in [aravinds-arv/aravinds-arv.github.io](https://github.com/aravinds-arv/aravinds-arv.github.io)
+2. 💪 Opened PR [#3](https://github.com/aravinds-arv/aravinds-arv.github.io/pull/3) in [aravinds-arv/aravinds-arv.github.io](https://github.com/aravinds-arv/aravinds-arv.github.io)
+3. 🎉 Merged PR [#1](https://github.com/aravinds-arv/aravinds-arv.github.io/pull/1) in [aravinds-arv/aravinds-arv.github.io](https://github.com/aravinds-arv/aravinds-arv.github.io)
+4. 💪 Opened PR [#1](https://github.com/aravinds-arv/aravinds-arv.github.io/pull/1) in [aravinds-arv/aravinds-arv.github.io](https://github.com/aravinds-arv/aravinds-arv.github.io)
+5. 💪 Opened PR [#161](https://github.com/pygrammers-org/Road-to-OSS/pull/161) in [pygrammers-org/Road-to-OSS](https://github.com/pygrammers-org/Road-to-OSS)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
