@@ -17,7 +17,7 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
   "joined": "1 years ago",
   "repos": "25",
   "repos_contributed_to": "7",
-  "commits": "941",
+  "commits": "945",
   "stars": "7",
   "issues": "7",
   "pull_requests": "26"
@@ -26,25 +26,18 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/aravinds-arv/aravinds-arv.github.io/pull/3) in [aravinds-arv/aravinds-arv.github.io](https://github.com/aravinds-arv/aravinds-arv.github.io)
-2. 💪 Opened PR [#3](https://github.com/aravinds-arv/aravinds-arv.github.io/pull/3) in [aravinds-arv/aravinds-arv.github.io](https://github.com/aravinds-arv/aravinds-arv.github.io)
-3. 🎉 Merged PR [#1](https://github.com/aravinds-arv/aravinds-arv.github.io/pull/1) in [aravinds-arv/aravinds-arv.github.io](https://github.com/aravinds-arv/aravinds-arv.github.io)
-4. 💪 Opened PR [#1](https://github.com/aravinds-arv/aravinds-arv.github.io/pull/1) in [aravinds-arv/aravinds-arv.github.io](https://github.com/aravinds-arv/aravinds-arv.github.io)
-5. 💪 Opened PR [#161](https://github.com/pygrammers-org/Road-to-OSS/pull/161) in [pygrammers-org/Road-to-OSS](https://github.com/pygrammers-org/Road-to-OSS)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
+5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
-Python       6 hrs 37 mins   █████████████████░░░░░░░░   67.64 %
-HTML         54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
-CSS          42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-Markdown     41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Bash         20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-CSV          18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
