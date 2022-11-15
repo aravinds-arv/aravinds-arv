@@ -15,33 +15,29 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 ```json
 {
   "joined": "1 years ago",
-  "repos": "26",
-  "repos_contributed_to": "6",
-  "commits": "962",
+  "repos": "27",
+  "repos_contributed_to": "7",
+  "commits": "964",
   "stars": "8",
   "issues": "7",
-  "pull_requests": "27"
+  "pull_requests": "28"
 }
 ```
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/aravinds-arv/github-pages-intro/pull/2) in [aravinds-arv/github-pages-intro](https://github.com/aravinds-arv/github-pages-intro)
-2. 💪 Opened PR [#2](https://github.com/aravinds-arv/github-pages-intro/pull/2) in [aravinds-arv/github-pages-intro](https://github.com/aravinds-arv/github-pages-intro)
-3. 🎉 Merged PR [#1](https://github.com/aravinds-arv/github-pages-intro/pull/1) in [aravinds-arv/github-pages-intro](https://github.com/aravinds-arv/github-pages-intro)
-4. 🎉 Merged PR [#3](https://github.com/aravinds-arv/aravinds-arv.github.io/pull/3) in [aravinds-arv/aravinds-arv.github.io](https://github.com/aravinds-arv/aravinds-arv.github.io)
-5. 💪 Opened PR [#3](https://github.com/aravinds-arv/aravinds-arv.github.io/pull/3) in [aravinds-arv/aravinds-arv.github.io](https://github.com/aravinds-arv/aravinds-arv.github.io)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
+5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
-CSV      42 mins         █████████████████▒░░░░░░░   69.97 %
-Python   14 mins         ██████░░░░░░░░░░░░░░░░░░░   23.81 %
-YAML     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
