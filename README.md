@@ -17,7 +17,7 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
   "joined": "1 years ago",
   "repos": "29",
   "repos_contributed_to": "8",
-  "commits": "1016",
+  "commits": "1018",
   "stars": "8",
   "issues": "7",
   "pull_requests": "28"
@@ -26,23 +26,18 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task/pull/29) in [Trajectory-Bootcamp/Trajectory-GitHub-Task](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task)
-2. 🎉 Merged PR [#23](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task/pull/23) in [Trajectory-Bootcamp/Trajectory-GitHub-Task](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task)
-3. 🎉 Merged PR [#28](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task/pull/28) in [Trajectory-Bootcamp/Trajectory-GitHub-Task](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task)
-4. 🗣 Commented on [#14](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task/issues/14) in [Trajectory-Bootcamp/Trajectory-GitHub-Task](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task)
-5. 🎉 Merged PR [#14](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task/pull/14) in [Trajectory-Bootcamp/Trajectory-GitHub-Task](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
+5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
-JavaScript   5 mins          █████████████░░░░░░░░░░░░   51.70 %
-Markdown     4 mins          █████████▓░░░░░░░░░░░░░░░   38.84 %
-YAML         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
