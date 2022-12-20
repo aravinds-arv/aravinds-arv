@@ -17,7 +17,7 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
   "joined": "1 years ago",
   "repos": "29",
   "repos_contributed_to": "8",
-  "commits": "1053",
+  "commits": "1054",
   "stars": "8",
   "issues": "8",
   "pull_requests": "28"
@@ -63,7 +63,7 @@ YAML   12 mins         ███████████████████
   <summary><b>Contribution graph</b></summary>
   <br>
   
-  ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aravinds-arv&theme=one-dark)
+  ![Aravind's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aravinds-arv&theme=one-dark)
 </details>
 <details>
   <summary><b>Other social</b></summary>
