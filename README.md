@@ -16,7 +16,7 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 {
   "joined": "1 years ago",
   "repos": "29",
-  "repos_contributed_to": "8",
+  "repos_contributed_to": "7",
   "commits": "1069",
   "stars": "8",
   "issues": "8",
@@ -26,24 +26,18 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/Tinkerhub-NSSCE/baymax/issues/11) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-2. ❗️ Closed issue [#2](https://github.com/Tinkerhub-NSSCE/baymax/issues/2) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-3. ❗️ Closed issue [#3](https://github.com/Tinkerhub-NSSCE/baymax/issues/3) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-4. ❗️ Closed issue [#5](https://github.com/Tinkerhub-NSSCE/baymax/issues/5) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-5. 🎉 Merged PR [#29](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task/pull/29) in [Trajectory-Bootcamp/Trajectory-GitHub-Task](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
+5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
-Python       2 hrs 26 mins   ██████████████████████▒░░   89.43 %
-Markdown     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-YAML         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
