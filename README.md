@@ -17,7 +17,7 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
   "joined": "2 years ago",
   "repos": "31",
   "repos_contributed_to": "9",
-  "commits": "1790",
+  "commits": "1820",
   "stars": "10",
   "issues": "8",
   "pull_requests": "28"
@@ -26,8 +26,8 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Tinkerhub-NSSCE/baymax/pull/13) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-2. 🎉 Merged PR [#12](https://github.com/Tinkerhub-NSSCE/baymax/pull/12) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
 5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
@@ -35,15 +35,9 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
-C            12 hrs 40 mins  ██████████████████████▒░░   88.91 %
-Python       1 hr            █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-Git Config   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-HTML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
