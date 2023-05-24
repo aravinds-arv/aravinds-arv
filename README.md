@@ -17,7 +17,7 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
   "joined": "2 years ago",
   "repos": "31",
   "repos_contributed_to": "9",
-  "commits": "2174",
+  "commits": "2175",
   "stars": "10",
   "issues": "8",
   "pull_requests": "26"
@@ -26,7 +26,7 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task/pull/32) in [Trajectory-Bootcamp/Trajectory-GitHub-Task](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
@@ -35,11 +35,9 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
 ```text
-No activity tracked
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
@@ -82,7 +80,7 @@ No activity tracked
 
 ---
 
-![](https://hit.yhype.me/github/profile?user_id=78845005)
+&nbsp;
 
 <p align="center">
    <a href="https://github.com/aravinds-arv.gpg"><img src="https://img.shields.io/badge/GPG-0x45C6D0F31C7A42D7-informational?style=plastic&logo=gnuprivacyguard&logoColor=white&color=313131"></a>
