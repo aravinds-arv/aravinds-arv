@@ -17,7 +17,7 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
   "joined": "2 years ago",
   "repos": "31",
   "repos_contributed_to": "9",
-  "commits": "2175",
+  "commits": "2176",
   "stars": "10",
   "issues": "8",
   "pull_requests": "26"
@@ -80,7 +80,7 @@ YAML   12 mins         ███████████████████
 
 ---
 
-&nbsp;
+![](https://hit.yhype.me/github/profile?user_id=78845005)
 
 <p align="center">
    <a href="https://github.com/aravinds-arv.gpg"><img src="https://img.shields.io/badge/GPG-0x45C6D0F31C7A42D7-informational?style=plastic&logo=gnuprivacyguard&logoColor=white&color=313131"></a>
