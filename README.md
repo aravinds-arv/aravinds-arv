@@ -15,18 +15,18 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 ```json
 {
   "joined": "2 years ago",
-  "repos": "32",
-  "repos_contributed_to": "9",
-  "commits": "2244",
+  "repos": "33",
+  "repos_contributed_to": "10",
+  "commits": "2253",
   "stars": "10",
   "issues": "8",
-  "pull_requests": "26"
+  "pull_requests": "27"
 }
 ```
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task/pull/32) in [Trajectory-Bootcamp/Trajectory-GitHub-Task](https://github.com/Trajectory-Bootcamp/Trajectory-GitHub-Task)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
@@ -35,14 +35,9 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```txt
-HTML         13 hrs 36 mins  █████████████████░░░░░░░░   67.53 %
-CSS          3 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
-JavaScript   2 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
-Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+```text
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
