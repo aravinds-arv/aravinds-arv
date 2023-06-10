@@ -26,11 +26,11 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
-4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
-5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
+1. 🎉 Merged PR [#1](https://github.com/aravinds-arv/skills-communicate-using-markdown/pull/1) in [aravinds-arv/skills-communicate-using-markdown](https://github.com/aravinds-arv/skills-communicate-using-markdown)
+2. 💪 Opened PR [#1](https://github.com/aravinds-arv/skills-communicate-using-markdown/pull/1) in [aravinds-arv/skills-communicate-using-markdown](https://github.com/aravinds-arv/skills-communicate-using-markdown)
+3. 🎉 Merged PR [#1](https://github.com/aravinds-arv/skills-introduction-to-github/pull/1) in [aravinds-arv/skills-introduction-to-github](https://github.com/aravinds-arv/skills-introduction-to-github)
+4. 💪 Opened PR [#1](https://github.com/aravinds-arv/skills-introduction-to-github/pull/1) in [aravinds-arv/skills-introduction-to-github](https://github.com/aravinds-arv/skills-introduction-to-github)
+5. 💪 Opened PR [#18](https://github.com/gtech-mulearn/bring-every-business-online/pull/18) in [gtech-mulearn/bring-every-business-online](https://github.com/gtech-mulearn/bring-every-business-online)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
