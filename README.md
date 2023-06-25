@@ -15,9 +15,9 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 ```json
 {
   "joined": "2 years ago",
-  "repos": "35",
+  "repos": "36",
   "repos_contributed_to": "10",
-  "commits": "2266",
+  "commits": "2267",
   "stars": "10",
   "issues": "8",
   "pull_requests": "30"
@@ -26,20 +26,18 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/gtech-mulearn/bring-every-business-online/pull/24) in [gtech-mulearn/bring-every-business-online](https://github.com/gtech-mulearn/bring-every-business-online)
-2. 🎉 Merged PR [#1](https://github.com/aravinds-arv/skills-communicate-using-markdown/pull/1) in [aravinds-arv/skills-communicate-using-markdown](https://github.com/aravinds-arv/skills-communicate-using-markdown)
-3. 💪 Opened PR [#1](https://github.com/aravinds-arv/skills-communicate-using-markdown/pull/1) in [aravinds-arv/skills-communicate-using-markdown](https://github.com/aravinds-arv/skills-communicate-using-markdown)
-4. 🎉 Merged PR [#1](https://github.com/aravinds-arv/skills-introduction-to-github/pull/1) in [aravinds-arv/skills-introduction-to-github](https://github.com/aravinds-arv/skills-introduction-to-github)
-5. 💪 Opened PR [#1](https://github.com/aravinds-arv/skills-introduction-to-github/pull/1) in [aravinds-arv/skills-introduction-to-github](https://github.com/aravinds-arv/skills-introduction-to-github)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
+5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
+```text
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
