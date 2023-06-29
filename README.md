@@ -35,9 +35,12 @@ Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛv�
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-```text
-YAML   12 mins         █████████████████████████   100.00 % 
+
+```txt
+CSS    18 mins         ████████████████░░░░░░░░░   64.38 %
+HTML   10 mins         █████████░░░░░░░░░░░░░░░░   35.62 %
 ```
+
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
