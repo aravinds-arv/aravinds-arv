@@ -63,7 +63,7 @@ YAML   12 mins         ███████████████████
   <summary><b>Contribution graph</b></summary>
   <br>
   
-  ![Aravind's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=aravinds-arv&theme=one-dark)
+  ![Aravind's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aravinds-arv&theme=one-dark)
 </details>
 <details>
   <summary><b>Other social</b></summary>
