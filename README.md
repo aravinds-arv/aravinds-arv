@@ -72,10 +72,7 @@ YAML   12 mins         ███████████████████
     <a href="https://twitter.com/aravinds_arv"><img src="https://img.shields.io/badge/Twitter-@aravinds_arv-informational?style=plastic&logo=twitter&logoColor=white&color=2bbc8a"></a>
     <a href="https://linkedin.com/in/aravinds-arv"><img src="https://img.shields.io/badge/LinkedIn-@aravinds--arv-informational?style=plastic&logo=linkedin&logoColor=white&color=2bbc8a"></a>
     <a href="https://pixelfed.de/aravinds.arv"><img src="https://img.shields.io/badge/Pixefed-@aravinds.arv-informational?style=plastic&logo=authy&logoColor=white&color=2bbc8a"></a>
-    <a href="https://instagram.com/aravinds.arv"><img src="https://img.shields.io/badge/Instagram-@aravinds.arv-informational?style=plastic&logo=instagram&logoColor=white&color=2bbc8a"></a>
-    <a href="https://open.spotify.com/user/31r43bzcwdnlspwr7ko6ezroxjku"><img src="https://img.shields.io/badge/Spotify-Aravind_S-informational?style=plastic&logo=spotify&logoColor=white&color=2bbc8a"></a>
     <a href="https://t.me/aravinds_arv"><img src="https://img.shields.io/badge/Telegram-@aravinds_arv-informational?style=plastic&logo=minutemailer&logoColor=white&color=2bbc8a"></a>
-    <a href="https://dev.to/aravindsarv"><img src="https://img.shields.io/badge/Dev.to-aravindsarv-informational?style=plastic&logo=dev.to&logoColor=white&color=2bbc8a"></a>
 </details>
 
 ---
