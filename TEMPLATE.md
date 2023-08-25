@@ -6,7 +6,7 @@
   <img src="https://github.com/aravinds-arv/aravinds-arv/blob/master/header.gif">
 </p>
 
-Hey there, welcome to my GitHub, I'm [Aravind](https://arv.codes/) ( */ˌaɾɛvɪnð/* ), data science undergrad @ IIT Madras. I am a self taught programmer, graphic designer, free & open source enthusiast and forever a learner. Here you'll find the projects i've been working on lately and sometimes other random stuff as well. Have something to talk about or just wanna say hi, you can find me on [mastodon](https://mstdn.social/@aravinds_arv) or [linkedin](https://www.linkedin.com/in/aravinds-arv/).
+Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data science undergrad [@IIT Madras](https://study.iitm.ac.in/ds/). I am a self taught programmer, graphic designer and a FOSS enthusiast. Here you'll find the projects i've been working on lately and sometimes other random stuff too. Have something interesting to talk about? Connect with me on [linkedin](https://www.linkedin.com/in/aravinds-arv/). Or in case you just wanna say hi, feel free to ping me on [telegram](https://t.me/aravinds_arv) or [discord](https://discord.com/users/900961892774854677).
 
 ---
 
