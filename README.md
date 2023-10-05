@@ -16,11 +16,11 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 {
   "joined": "2 years ago",
   "repos": "37",
-  "repos_contributed_to": "10",
+  "repos_contributed_to": "11",
   "commits": "2420",
   "stars": "9",
   "issues": "8",
-  "pull_requests": "30"
+  "pull_requests": "31"
 }
 ```
 
@@ -35,15 +35,9 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```txt
-Markdown     11 hrs 48 mins  █████████████████▓░░░░░░░   70.44 %
-YAML         4 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
-CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Zed          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+```text
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
