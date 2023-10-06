@@ -26,7 +26,7 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#63](https://github.com/bsc-iitm/python-textbook/pull/63) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
@@ -35,15 +35,9 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```txt
-Markdown     9 hrs 30 mins   ████████████████▒░░░░░░░░   65.80 %
-YAML         4 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   31.08 %
-CSS          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Zed          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+```text
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
