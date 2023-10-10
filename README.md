@@ -26,24 +26,18 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/bsc-iitm/python-textbook/pull/63#issuecomment-1748993486) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
-2. 🗣 Commented on [#63](https://github.com/bsc-iitm/python-textbook/pull/63#issuecomment-1748823858) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
-3. 💪 Opened PR [#63](https://github.com/bsc-iitm/python-textbook/pull/63) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
 5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```txt
-YAML        4 hrs 29 mins   ████████████████░░░░░░░░░   64.12 %
-Markdown    2 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   30.11 %
-Zed         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-CSS         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-JSON        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+```text
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
