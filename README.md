@@ -16,8 +16,8 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 {
   "joined": "2 years ago",
   "repos": "37",
-  "repos_contributed_to": "11",
-  "commits": "2429",
+  "repos_contributed_to": "10",
+  "commits": "2430",
   "stars": "10",
   "issues": "8",
   "pull_requests": "32"
@@ -26,24 +26,18 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/bsc-iitm/python-textbook/pull/64#issuecomment-1772986772) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
-2. 💪 Opened PR [#64](https://github.com/bsc-iitm/python-textbook/pull/64) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
-3. ❌ Closed PR [#63](https://github.com/bsc-iitm/python-textbook/pull/63) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
-4. 🗣 Commented on [#63](https://github.com/bsc-iitm/python-textbook/pull/63#issuecomment-1770025879) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
-5. 🗣 Commented on [#63](https://github.com/bsc-iitm/python-textbook/pull/63#issuecomment-1765946122) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
+5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```txt
-Markdown     14 hrs 55 mins  ████████████████████████░   96.60 %
-YAML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Text         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Ezhil        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+```text
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
