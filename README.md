@@ -26,24 +26,18 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65](https://github.com/bsc-iitm/python-textbook/pull/65) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
-2. 🗣 Commented on [#64](https://github.com/bsc-iitm/python-textbook/pull/64#issuecomment-1774538561) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
-3. 🗣 Commented on [#64](https://github.com/bsc-iitm/python-textbook/pull/64#issuecomment-1772986772) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
-4. 💪 Opened PR [#64](https://github.com/bsc-iitm/python-textbook/pull/64) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
-5. ❌ Closed PR [#63](https://github.com/bsc-iitm/python-textbook/pull/63) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
+4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
+5. 💪 Opened PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
 <!--END_SECTION:activity-->
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```txt
-Markdown   18 hrs 3 mins   ████████████████████████▒   96.89 %
-YAML       31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Ezhil      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-CSS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+```text
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
