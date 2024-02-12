@@ -14,7 +14,7 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 
 ```json
 {
-  "joined": "2 years ago",
+  "joined": "3 years ago",
   "repos": "38",
   "repos_contributed_to": "8",
   "commits": "2443",
@@ -26,7 +26,7 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 
 ### ⌛ Recent github activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/bsc-iitm/python-textbook/pull/65#issuecomment-1848400890) in [bsc-iitm/python-textbook](https://github.com/bsc-iitm/python-textbook)
+1. ❗️ Closed issue [#4](https://github.com/Tinkerhub-NSSCE/baymax/issues/4) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 2. 🎉 Merged PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 3. 💪 Opened PR [#10](https://github.com/Tinkerhub-NSSCE/baymax/pull/10) in [Tinkerhub-NSSCE/baymax](https://github.com/Tinkerhub-NSSCE/baymax)
 4. 🎉 Merged PR [#1](https://github.com/Tinkerhub-NSSCE/Wikisyllabus/pull/1) in [Tinkerhub-NSSCE/Wikisyllabus](https://github.com/Tinkerhub-NSSCE/Wikisyllabus)
@@ -35,11 +35,9 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
+```text
+YAML   12 mins         █████████████████████████   100.00 % 
 ```
-
 <!--END_SECTION:waka-->
   
 ### 🔧 Technologies & Tools
