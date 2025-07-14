@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '0 0 * * *' # every 12 hours
+    - cron: '00 7 * * *' # every 12 hours
   push:
     branches:
       - master
