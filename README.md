@@ -14,7 +14,7 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 
 ```json
 {
-  "joined": "4 years ago",
+  "joined": "5 years ago",
   "repos": "39",
   "repos_contributed_to": "0",
   "commits": "2461",
@@ -26,11 +26,9 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```txt
+```text
 No activity tracked
 ```
-
 <!--END_SECTION:waka-->
 
 <br>
