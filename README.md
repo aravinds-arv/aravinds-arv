@@ -16,21 +16,19 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 {
   "joined": "5 years ago",
   "repos": "39",
-  "repos_contributed_to": "0",
+  "repos_contributed_to": "1",
   "commits": "2461",
   "stars_received": "15",
-  "issues": "8",
+  "issues": "9",
   "pull_requests": "36"
 }
 ```
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```txt
+```text
 No activity tracked
 ```
-
 <!--END_SECTION:waka-->
 
 <br>
