@@ -17,7 +17,7 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
   "joined": "5 years ago",
   "repos": "40",
   "repos_contributed_to": "1",
-  "commits": "2471",
+  "commits": "2474",
   "stars_received": "15",
   "issues": "9",
   "pull_requests": "36"
@@ -26,15 +26,9 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```txt
-Python       11 hrs 2 mins         ████████████████████▒░░░░   80.93 %
-Vue          2 hrs 8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.71 %
-JavaScript   12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Bash         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-Git Config   2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+```text
+No activity tracked
 ```
-
 <!--END_SECTION:waka-->
 
 <br>
