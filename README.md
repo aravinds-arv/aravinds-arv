@@ -26,9 +26,15 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
 
 ### 💻 Weekly development breakdown
 <!--START_SECTION:waka-->
-```text
-No activity tracked
+
+```txt
+Vue          9 hrs                 ████████████▒░░░░░░░░░░░░   49.79 %
+Python       8 hrs 3 mins          ███████████░░░░░░░░░░░░░░   44.51 %
+JavaScript   32 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Mako         14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+INI          7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
+
 <!--END_SECTION:waka-->
 
 <br>
