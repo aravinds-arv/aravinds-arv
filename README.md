@@ -17,7 +17,7 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
   "joined": "5 years ago",
   "repos": "41",
   "repos_contributed_to": "1",
-  "commits": "2543",
+  "commits": "2544",
   "stars_received": "16",
   "issues": "9",
   "pull_requests": "36"
