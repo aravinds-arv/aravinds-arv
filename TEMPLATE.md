@@ -44,6 +44,6 @@ No activity tracked
 ![](https://hit.yhype.me/github/profile?user_id=78845005)
 
 <p align="center">
-   <a href="https://github.com/aravinds-arv.gpg"><img src="https://img.shields.io/badge/GPG-0x6CAEBF8F0A645091-informational?style=plastic&logo=gnuprivacyguard&logoColor=white&color=313131"></a>
-    <img src="https://komarev.com/ghpvc/?username=aravinds-arv&color=313131&style=plastic&label=~+Profile+Hits&logo=twitter"
+  <a href="https://github.com/aravinds-arv.gpg"><img src="https://img.shields.io/badge/GPG-0xB14B704046F1BE52-informational?style=plastic&logo=gnuprivacyguard&logoColor=white&color=313131"></a>
+  <a href="https://hits.sh/github.com/aravinds-arv/hits/"><img alt="Hits" src="https://hits.sh/github.com/aravinds-arv/hits.svg?view=today-total&style=plastic&label=~%20Hits&extraCount=1&color=313131"/></a>
 </p>
