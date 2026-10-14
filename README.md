@@ -17,7 +17,7 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
   "joined": "5 years ago",
   "repos": "41",
   "repos_contributed_to": "1",
-  "commits": "2542",
+  "commits": "2543",
   "stars_received": "16",
   "issues": "9",
   "pull_requests": "36"
@@ -36,7 +36,7 @@ No activity tracked
   <summary><b>Contribution graph</b></summary>
   <br>
   
-  ![Aravind's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aravinds-arv&theme=one-dark)
+  ![Aravind's github activity graph](https://github-activity-graph.luckylinux.dev/graph?username=aravinds-arv&theme=one-dark)
 </details>
 
 ---
