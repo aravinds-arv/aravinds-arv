@@ -17,7 +17,7 @@ Hey there, welcome to my GitHub, I'm **Aravind** ( */ˌaɾɛvɪnð/* ), data sci
   "joined": "5 years ago",
   "repos": "41",
   "repos_contributed_to": "1",
-  "commits": "2541",
+  "commits": "2542",
   "stars_received": "16",
   "issues": "9",
   "pull_requests": "36"
@@ -45,5 +45,5 @@ No activity tracked
 
 <p align="center">
   <a href="https://github.com/aravinds-arv.gpg"><img src="https://img.shields.io/badge/GPG-0xB14B704046F1BE52-informational?style=plastic&logo=gnuprivacyguard&logoColor=white&color=313131"></a>
-  <a href="https://hits.sh/github.com/aravinds-arv/hits/"><img alt="Hits" src="https://hits.sh/github.com/aravinds-arv/hits.svg?view=today-total&style=plastic&label=~%20Hits&extraCount=1&color=313131"/></a>
+  <a href="https://hits.sh/github.com/aravinds-arv/hits/"><img alt="Hits" src="https://hits.sh/github.com/aravinds-arv/hits.svg?view=total&style=plastic&label=~%20Hits&extraCount=2716&color=313131"/></a>
 </p>
